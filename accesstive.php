@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Accesstive
+ * Plugin Name: HumanFirst Accessibility – by Accesstive
  * Plugin URI: https://accesstive.com
  * Description: Accesstive is an all-in-one accessibility platform that helps websites become inclusive, compliant, and user-friendly. It combines powerful tools like an accessibility assistant widget, AI-based live audits, monitoring, and an intelligent assistant. Designed for businesses, developers, and agencies—Accesstive makes accessibility simple, scalable, and smart.
  * Version: 1.0.0
@@ -19,7 +19,7 @@
  * @author Accesstive
  * @since 1.0.0
  * @license GPLv2 or later
- * @copyright 2024 Accesstive
+ * @copyright 2025 Accesstive
  */
 
 // Prevent direct access
